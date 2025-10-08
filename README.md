@@ -5,10 +5,15 @@ The ability to read and understand scientific literature is a key skill for any 
 Additionally, engaging with scientific manuscripts sharpens our ability to leverage the scientific method. As a refresher, the scientific method is a structured, evidence-based process by which humans build knowledge about the world. Its steps are:
 
 a) Observation - _Notice something interesting in the world_ ("Bacteria isn't growing on this moldy petri dish.")
+
 b) Question - _Ask a specific and *testable* question_ ("Does this mold kill bacteria?")
+
 c) Hypothesis - _Propose a *testable* explanation_ ("When this mold encounters bacteria, it has the ability to kill them")
-d) Experiment - _Design and conduct controlled tests to collect relevant data_ ("I will create 10 moldy petri dishes using the exact same mold, and then place a different type of bacteria on each plate and observe growth patterns"
+
+d) Experiment - _Design and conduct controlled tests to collect relevant data_ ("I will create 10 moldy petri dishes using the exact same mold, and then place a different type of bacteria on each plate and observe growth patterns")
+
 e) Analysis - _Examine the data and determine whether it supports or refutes the hypothesis_ ("None of the bacteria colonies grew on the modly plates")
+
 f) Conclusion - _Draw logical conclusions and communicate results_ ("This mold can kill bacteria through an unknown mechanism")
 
 When you read a textbook, you usually only recieve the final step ("Conclusion"), and it's (hopefully!) laid out in a nice, logical flow. Textbooks are perfect for _consuming_ knowledge, but as scientists we want to _produce_ knowledge. In this way, we have the privilege of pushing the boundaries of human understanding and, in doing so, frequently become the first person in  history to learn/see/understand something new.  And the only way to produce this knowledge is through our understanding and application of the scientific method, which is sharpened by seeing many examples (both good and bad) written out in the form of scientific papers! These examples help us learn to dissect methodology, effectively interpret data, and identify the strength of an author's reasoning.
@@ -43,8 +48,11 @@ Now that we've _consumed_ the paper (that is, we understand what it's saying) it
 The main expectation, of course, is that you've read the paper :) Beyond that, be ready to discuss the following:
 
 1) The main hypothesis & contribution made by the paper
+  
 2) Methodological strengths & flaws
+
 3) Potential applications or extensions
+
 4) Questions you still have or parts you don't understand
 
 You may not be able to fully determine the hypothesis, or you may not have a strong opinion on flaws or applications (particularly if you don't have a ton of prior experience with scientific literature). That's ok! The main thing is to keep at it, and stay consistently engaged as practice makes perfect. Also, remember that no one knows everything - an expert in field A might struggle to understand foundational principles of field B. And that's the last (and arguably most important) benefit of journal club: building an environment of welcome, collaborative learning that fosters intellectual growth and sparks new research ideas.
@@ -53,7 +61,9 @@ You may not be able to fully determine the hypothesis, or you may not have a str
 We will meet *bi-weekly* for 60 minutes. One person will serve as the presenter for each paper, and will create a short 5-10 minute summary that covers:
 
 a) The main hypothesis
+
 b) Methods used
+
 c) Key results and acknowledged limitations
 
 This will serve to ground the group in Parts 1 and 2 of paper reading (Overview & Full Pass).
