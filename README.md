@@ -21,6 +21,7 @@ When you read a textbook, you usually only recieve the final step ("Conclusion")
 Not only do academic papers sharpen our general scientific method skills, but they also raise _specific_ ideas and hypotheses we might want to test. "This paper only applied basic NLP approaches to investor sentiment. I hypothesize that more advanced NLP methods would enable XYZ." Once we have the hypothesis, we can proceed straight into the scientific method workflow.
 
 
+
 # How to read a scientific paper
 The most common mistake we make when reading a scientific paper is to think of it like a textbook, and read in a linear fashion from start to finish. But because scientific articles are dense arguments and not stories, we need to learn to be more efficient and read strategically. The good news is that every paper largely follows the same format (Abstract -> Introduction -> Methods -> Results -> Conclusion), so we only need to develop a single approach and we'll be set!
 
@@ -42,6 +43,7 @@ Next, review the Conclusions section. Based on the understanding you developed i
 
 ## 3) Critique
 Now that we've _consumed_ the paper (that is, we understand what it's saying) it's time to apply our critical thinking and _produce_.  What are the strengths and weaknesses of the paper? Where do we see opportunities to extend the research being presented, or perhaps challenge it? And perhaps most importantly, how does this change our worldview as AI practitioners? A new PEFT method such as q-LORA could have massive impact on our daily workflow, whereas a case study in an adjacent discipline might simply serve as a helpful analogy to file away for some later use.
+
 
 
 # What to bring to a journal club
