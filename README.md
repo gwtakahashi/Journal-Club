@@ -45,6 +45,19 @@ Next, review the Conclusions section. Based on the understanding you developed i
 Now that we've _consumed_ the paper (that is, we understand what it's saying) it's time to apply our critical thinking and _produce_.  What are the strengths and weaknesses of the paper? Where do we see opportunities to extend the research being presented, or perhaps challenge it? And perhaps most importantly, how does this change our worldview as AI practitioners? A new PEFT method such as q-LORA could have massive impact on our daily workflow, whereas a case study in an adjacent discipline might simply serve as a helpful analogy to file away for some later use.
 
 
+## A note on GenAI tools)
+I absolutely love using GenAI to understand papers, but it should only be leveraged as a supplement alongside manually completing each of the three steps. (Note: NotebookLM is my go-to tool: I can upload the paper and immediately begin having conversations)
+
+### Step 1) 
+Once I've done a first pass of the title and abstract, I'll create a podcast (via NotebookLM) that discusses the paper. This and other GenAI summaries serves as a helpful way to "check my understanding" and make sure I didn't miss anything. It also provides a nice segue into Step 2 by providing a high-level discussion of methods and results
+
+### Step 2)
+GenAI tools work great for helping resolve areas I don't understand. Uploading the paper to my GenAI tool of choice and asking clarifying questions such as "How does ABC connect to XYZ?" or "I don't understand the concept of diffraction. Please explain it to me and how it relates to ABC in the attached paper." In this way, I can develop a deeper understanding of what's being presented, which in turn will help my critique. Note, however, that you never want to accept an explanation at face-value. Does the GenAI output logically match what's being presented in the paper? Can you corroborate with other non-GenAI sources?
+
+### Step 3)
+This one's the most fun: using GenAI to critique a paper. This can range from asking your tool of choice to summarize the top strengths and weaknesses of the attached article, to having in-depth discussions about a specific research extension. Again, you should never use GenAI to supplant your own opintions (autopilot), but rather use it as a "fellow journal club member" with whom you can debate your ideas (copilot).
+
+
 
 # What to bring to a journal club
 The main expectation, of course, is that you've read the paper :) Beyond that, be ready to discuss the following:
